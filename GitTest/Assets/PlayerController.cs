@@ -6,9 +6,15 @@ public class PlayerController : MonoBehaviour
 {
     //Impliment player controls
     public float speed;
+    private Vector3 movePos;
 
     private void MovePlayer()
     {
-        //Moves player
+
+    }
+
+    private void Jump()
+    {
+
     }
 }
